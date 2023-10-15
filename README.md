@@ -1,5 +1,7 @@
 # OptiBrief Guidelines Repository
 
+![alt text](https://github.com/fusionpoweredsoftware/OptiBrief/blob/main/demo.png?raw=true)
+
 ## Introduction
 
 Welcome to the OptiBrief Guidelines repository! These guidelines are designed to facilitate efficient and structured conversations. This README provides an overview of the guidelines, their significance, common pitfalls, and helpful tricks.
