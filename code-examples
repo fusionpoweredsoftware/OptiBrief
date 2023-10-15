@@ -1,0 +1,24 @@
+# OptiBrief Code Example
+
+# Guideline 3 Exception: Code Discussion
+# In code discussions, participants are not required to adhere strictly to the 3-sentence rule.
+
+# Example: Implementing a Python function that calculates the factorial of a number.
+
+def factorial(n):
+    """
+    Calculate the factorial of a number using recursion.
+    
+    Args:
+    n (int): The number for which to calculate the factorial.
+    
+    Returns:
+    int: The factorial of the input number.
+    """
+    
+    # Base case: If n is 0 or 1, return 1.
+    if n <= 1:
+        return 1
+    
+    # Recursive case: Calculate factorial by multiplying n with factorial(n-1).
+    return n * factorial(n - 1)
