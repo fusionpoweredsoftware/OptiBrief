@@ -14,9 +14,9 @@ Welcome to the OptiBrief Guidelines repository! These guidelines are designed to
 
 - Each participant should maintain an optimistic perspective, believing that a solution exists for any problem, even if it hasn't been found yet.
 
-### 3. Code Exception
+### 3. Code, Quote, and Point Exception
 
-- The only exception to these rules is when discussing code, where participants are not required to adhere to these constraints.
+- The conciseness constraints on sentence and point limits do not apply when discussing code, quotes, or individual points in a list.
 
 ## Importance
 
@@ -26,7 +26,7 @@ The OptiBrief guidelines are crucial for the following reasons:
 
 2. **Optimism and Solution-Driven:** Maintaining an optimistic perspective fosters a positive problem-solving environment.
 
-3. **Code Exception:** Allowing flexibility in code discussions ensures that technical details can be explored comprehensively.
+3. **Code, Quote, and Point Exception:** Allowing flexibility in code discussions ensures that technical details can be explored comprehensively.
 
 ## Common Pitfalls
 
