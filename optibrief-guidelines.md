@@ -15,6 +15,7 @@ Renewable energy is essential for a sustainable future. It reduces greenhouse ga
 2. Reduces emissions.
 3. Lowers fossil fuel dependency.
 ```
+
 Example 2:
 
 ```
@@ -29,27 +30,34 @@ Example 3:
 
 ```
 Renewable energy is essential for a sustainable future. It reduces greenhouse gas emissions.
+```
 
 ## Guideline 2: Optimistic Perspective
 
 Maintaining an **Optimistic Perspective** is essential in OptiBrief. It means believing that a solution exists for any problem, even if it hasn't been found yet. This fosters a positive problem-solving environment.
-```
+
 
 Example 1:
 
+```
 Climate change is a pressing issue, but technological advancements offer hope for mitigation.
 
-Acknowledges the challenge.
-Highlights the role of technology.
-Expresses optimism for solutions.
+1. Acknowledges the challenge.
+2. Highlights the role of technology.
+3. Expresses optimism for solutions.
+```
 
 Example 2:
 
+```
 Unemployment rates are high, yet remote work opportunities are expanding, offering new job possibilities.
+```
 
 Example 3:
 
+```
 Healthcare costs are rising, but telemedicine is making healthcare more accessible and affordable.
+```
 
 ## Guideline 3: Code, Quote, and Point Exception
 
