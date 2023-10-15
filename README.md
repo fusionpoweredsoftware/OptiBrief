@@ -1,6 +1,6 @@
 # OptiBrief Guidelines Repository
 
-![alt text](https://github.com/fusionpoweredsoftware/OptiBrief/blob/main/demo.png?raw=true)
+![alt text](https://github.com/fusionpoweredsoftware/OptiBrief/blob/main/showcase.png?raw=true)
 
 ## Introduction
 
