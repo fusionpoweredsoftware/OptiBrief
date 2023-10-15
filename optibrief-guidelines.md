@@ -8,27 +8,32 @@ In this document, we'll delve into the OptiBrief Guidelines in greater detail, e
 
 Example 1:
 
+```
 Renewable energy is essential for a sustainable future. It reduces greenhouse gas emissions and lowers dependency on fossil fuels.
 
-Promotes sustainability.
-Reduces emissions.
-Lowers fossil fuel dependency.
-
+1. Promotes sustainability.
+2. Reduces emissions.
+3. Lowers fossil fuel dependency.
+```
 Example 2:
 
+```
 Renewable energy is essential for a sustainable future. It reduces greenhouse gas emissions and lowers dependency on fossil fuels. Additionally, it can stimulate economic growth.
 
-Promotes sustainability.
-Reduces emissions.
-Boosts the economy.
+1. Promotes sustainability.
+2. Reduces emissions.
+3. Boosts the economy.
+```
 
 Example 3:
 
+```
 Renewable energy is essential for a sustainable future. It reduces greenhouse gas emissions.
 
 ## Guideline 2: Optimistic Perspective
 
 Maintaining an **Optimistic Perspective** is essential in OptiBrief. It means believing that a solution exists for any problem, even if it hasn't been found yet. This fosters a positive problem-solving environment.
+```
 
 Example 1:
 
